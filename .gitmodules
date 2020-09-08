@@ -1,0 +1,3 @@
+[submodule "SDtrail"]
+	path = SDtrail
+	url = git@github.com:mpabst01/SanDiegoTrail.git
